@@ -1,2 +1,2 @@
 # serenatto
- Landing Page Serenatto - desenvolvida com HTML, CSS, Bootrstap 5 e JavaScript
+ Landing Page Serenatto - projeto desenvolvido com HTML, CSS, Bootstrap 5 e JavaScript
